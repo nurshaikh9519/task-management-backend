@@ -1,4 +1,4 @@
-# task-management-backend
+# Task-management-application
 Task Management Application built using Java, Spring Boot, PostgreSQL and JWT authentication.
 
 # Task Management Backend
